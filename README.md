@@ -24,7 +24,12 @@ TBA
 TBA
 
 ## Example Playbook
-TBA
+```
+- name: teslamate-advanced.yml
+  hosts: all
+  roles:
+    - tobiasehlert.teslamate_advanced
+```
 
 ## License
 MIT
