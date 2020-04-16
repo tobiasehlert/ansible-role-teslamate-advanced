@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  role_name: teslamate-advanced
+  role_name: teslamate_advanced
   author: Tobias Lindberg
   description: TeslaMate installation on bare Linux OS
 
