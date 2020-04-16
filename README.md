@@ -1,4 +1,5 @@
 # Ansible Role: teslamate-advanced
+[![Build Status](https://api.travis-ci.com/tobiasehlert/ansible-role-teslamate.svg?branch=master)](https://travis-ci.com/github/tobiasehlert/ansible-role-teslamate-advanced)
 
 Ansible Role for TeslaMate installation on bare Linux OS
 
