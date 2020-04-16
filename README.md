@@ -1,2 +1,3 @@
-# ansible-role-teslamate-advanced
-Ansible Role - TeslaMate installation on bare Linux OS
+# Ansible Role: teslamate-advanced
+
+Ansible Role for TeslaMate installation on bare Linux OS
